@@ -1,0 +1,783 @@
+[
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "a3099c3e9ca6283d8005c85890b28e6c403db988",
+    "fields": {
+      "provider": "illico-park",
+      "postal_code": 4000,
+      "street_name": "Square L\u00e9on L\u00e9onard",
+      "available_charging_terminals": 0,
+      "name": "Parking Cadran Saint-Hubert",
+      "url": "http://www.illico-park.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5684967983, 50.6454726443],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "available_spaces": 40,
+      "phone_number": "+32 (0) 4 340 49 22",
+      "available_motorbike_spaces": 0,
+      "mail": "info@illico-park.be",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6454726443, 5.5684967983]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5684967983, 50.6454726443]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "d75daa8b9cf5e3d25250becfcb3051ad77c8ddb2",
+    "fields": {
+      "provider": "illico-park",
+      "postal_code": 4000,
+      "street_name": "Rue des Bons-Enfants",
+      "available_charging_terminals": 2,
+      "name": "Parking Cadran Bons-Enfants",
+      "url": "http://www.illico-park.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5680626708, 50.6459673929],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "available_spaces": 126,
+      "phone_number": "+32 (0) 4 340 49 22",
+      "available_motorbike_spaces": 0,
+      "mail": "info@illico-park.be",
+      "available_handicapped_spaces": 4,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6459673929, 5.5680626708]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5680626708, 50.6459673929]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "5fead6465a45745be4b58aa94215cd4cfe491dd6",
+    "fields": {
+      "provider": "mypark / UHODA",
+      "postal_code": 4000,
+      "street_name": "Rue Soeurs de Hasque",
+      "available_charging_terminals": 0,
+      "name": "Parking Charles Magnette",
+      "url": "http://www.mypark.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5737971847, 50.6407336057],
+        "type": "Point"
+      },
+      "schedule": "Du lundi au samedi de 7h00 \u00e0 20h00 et dimanche de 7h00 \u00e0 15h45.",
+      "house_number": "1b",
+      "available_spaces": 487,
+      "phone_number": "+32 (0) 4 223 30 68",
+      "available_motorbike_spaces": 0,
+      "mail": "parkingcathedrale@mypark.be",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6407336057, 5.5737971847]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5737971847, 50.6407336057]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "be47aaedd8b9ba3f584753ceebb362108c4b4896",
+    "fields": {
+      "provider": "mypark",
+      "postal_code": 4000,
+      "street_name": "Rue Jonfosse",
+      "available_charging_terminals": 0,
+      "name": "Parking Carr\u00e9-Jonfosse",
+      "url": "http://www.mypark.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5630715042, 50.6401206487],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "73",
+      "available_spaces": 156,
+      "phone_number": "+32 (0) 4 221 61 00",
+      "available_motorbike_spaces": 0,
+      "mail": "info@mypark.be",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 20,
+      "geo_point_2d": [50.6401206487, 5.5630715042]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5630715042, 50.6401206487]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "c6e3305f74cb2b794ea6a534bdaef52b12e60669",
+    "fields": {
+      "provider": "Opera",
+      "postal_code": 4000,
+      "street_name": "Rue Georges Cl\u00e9menceau",
+      "available_charging_terminals": 0,
+      "name": "Parking Op\u00e9ra",
+      "url": "https://www.facebook.com/parkingopera/",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5710141432, 50.6430595898],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "1",
+      "available_spaces": 245,
+      "phone_number": "+32 (0) 4 223 36 81",
+      "available_motorbike_spaces": 0,
+      "mail": "parkingoperaliege@gmail.com",
+      "available_handicapped_spaces": 1,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6430595898, 5.5710141432]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5710141432, 50.6430595898]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "6880b805edd31fb789cb02f56c8d0f4fa56ce0b6",
+    "fields": {
+      "provider": "mypark",
+      "postal_code": 4000,
+      "street_name": "Place Cath\u00e9drale",
+      "available_charging_terminals": 0,
+      "name": "Parking Cath\u00e9drale",
+      "url": "http://www.mypark.be/",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5716327741, 50.6407691935],
+        "type": "Point"
+      },
+      "schedule": "Du dimanche au jeudi de 7h30 \u00e0 2h00, vendredi et samedi 24h/24.",
+      "house_number": "1",
+      "available_spaces": 468,
+      "phone_number": "+32 (0) 4 232 38 38",
+      "available_motorbike_spaces": 0,
+      "mail": "parkingcathedrale@mypark.be",
+      "available_handicapped_spaces": 3,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6407691935, 5.5716327741]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5716327741, 50.6407691935]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "70307a94c0d262d297bf82524c3e5387e5e5ba87",
+    "fields": {
+      "provider": "interparking",
+      "postal_code": 4000,
+      "street_name": "Quai de la Goffe",
+      "available_charging_terminals": 2,
+      "name": "Parking Cit\u00e9 administrative",
+      "url": "http://www.interparking.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.578713548, 50.6454658887],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "15",
+      "available_spaces": 354,
+      "phone_number": "+32 (0) 4 221 41 45",
+      "available_motorbike_spaces": 0,
+      "mail": "info@interparking.com",
+      "available_handicapped_spaces": 7,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6454658887, 5.578713548]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.578713548, 50.6454658887]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "ac43d4aca3937fc8d97af8f05ed649069a7afac9",
+    "fields": {
+      "provider": "Bepark",
+      "postal_code": 4000,
+      "street_name": "Avenue Blonden",
+      "available_charging_terminals": 0,
+      "name": "Parking Avenue Blonden",
+      "url": "https://www.bepark.eu/fr/parking/wallonie/liege",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5693204292, 50.6290986586],
+        "type": "Point"
+      },
+      "schedule": "sur abonnement ou r\u00e9servation : 24h/24, 7j/7.",
+      "house_number": "26",
+      "available_spaces": 40,
+      "phone_number": "+32 (0) 2 880 05 50",
+      "available_motorbike_spaces": 0,
+      "mail": "info-be@bepark.eu",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6290986586, 5.5693204292]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5693204292, 50.6290986586]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "cfdce9696e1406d21a9795e1d696710e8eb9d7f9",
+    "fields": {
+      "provider": "mypark",
+      "postal_code": 4020,
+      "street_name": "Boulevard Raymond Poincar\u00e9",
+      "available_charging_terminals": 6,
+      "name": "Parking M\u00e9diacit\u00e9",
+      "url": "http://www.mypark.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5801465473, 50.6319550955],
+        "type": "Point"
+      },
+      "schedule": "Du lundi au vendredi de 7h00 \u00e0 23h00 (jusqu'\u00e0 minuit en hiver), samedi de 7h00 \u00e0 23h00 (jusqu'\u00e0 23h30 en hiver) et dimanche uniquement en hiver de 7h00 \u00e0 23h30.",
+      "house_number": "7",
+      "available_spaces": 2200,
+      "phone_number": "+32 (0) 4 342 45 93",
+      "available_motorbike_spaces": 0,
+      "mail": "lpe@mypark.be",
+      "available_handicapped_spaces": 51,
+      "available_bike_spaces": 12,
+      "geo_point_2d": [50.6319550955, 5.5801465473]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5801465473, 50.6319550955]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "66c3781cceedc253a9f628cfab25578f2072e826",
+    "fields": {
+      "provider": "mypark",
+      "postal_code": 4000,
+      "street_name": "Place Saint-Lambert",
+      "available_charging_terminals": 0,
+      "name": "Parking Saint-Lambert",
+      "url": "http://www.mypark.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": { "coordinates": [5.5727509, 50.6445694], "type": "Point" },
+      "schedule": "Du dimanche au jeudi de 7h00 \u00e0 1h00 et du vendredi au samedi de 7h00 \u00e0 3h00.",
+      "house_number": "19",
+      "available_spaces": 500,
+      "phone_number": "+32 (0) 4 221 61 00",
+      "available_motorbike_spaces": 0,
+      "mail": "parkingcathedrale@mypark.be",
+      "available_handicapped_spaces": 11,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6445694, 5.5727509]
+    },
+    "geometry": { "type": "Point", "coordinates": [5.5727509, 50.6445694] },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "179a5118c163929115e49af408068c69e7c86887",
+    "fields": {
+      "provider": "Saint-Paul",
+      "postal_code": 4000,
+      "street_name": "Place Saint-Paul",
+      "available_charging_terminals": 0,
+      "name": "Parking Saint-Paul",
+      "url": "http://www.parkingstpaul.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.571343621, 50.6395769947],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "3B",
+      "available_spaces": 420,
+      "phone_number": "+32 (0) 4 223 13 56",
+      "available_motorbike_spaces": 0,
+      "mail": "parking-stpaul@hotmail.com",
+      "available_handicapped_spaces": 1,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6395769947, 5.571343621]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.571343621, 50.6395769947]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "2deec60b16adf56a83224c2c7ed2334b50d7ebe5",
+    "fields": {
+      "provider": "europarking UHODA",
+      "postal_code": 4000,
+      "street_name": "Rue des Pr\u00e9montr\u00e9s",
+      "available_charging_terminals": 0,
+      "name": "Parking Kennedy",
+      "url": "https://uhoda.com/",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5754324031, 50.6382306915],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "2",
+      "available_spaces": 65,
+      "phone_number": "+32 (0) 471 60 82 69",
+      "available_motorbike_spaces": 0,
+      "mail": "contact@europarking.be",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6382306915, 5.5754324031]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5754324031, 50.6382306915]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "f83ced04ad1c98617573eb12ee3e853a2027dec2",
+    "fields": {
+      "provider": "europarking UHODA",
+      "postal_code": 4000,
+      "street_name": "Boulevard de la Sauveni\u00e8re",
+      "available_charging_terminals": 0,
+      "name": "Parking Neujean",
+      "url": "https://uhoda.com/",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5671565924, 50.6436149997],
+        "type": "Point"
+      },
+      "schedule": "Du lundi au vendredi de 8h00 \u00e0 1h00 et du samedi au dimanche 24h/24.",
+      "house_number": "55",
+      "available_spaces": 350,
+      "phone_number": "+32 (0) 471 60 82 69",
+      "available_motorbike_spaces": 0,
+      "mail": "contact@europarking.be",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 6,
+      "geo_point_2d": [50.6436149997, 5.5671565924]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5671565924, 50.6436149997]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "fa5a81a961f18c2a88241ec088e878190e995d8c",
+    "fields": {
+      "provider": "Bepark",
+      "postal_code": 4000,
+      "street_name": "Rue des Guillemins",
+      "available_charging_terminals": 0,
+      "name": "Parking Espace Guillemins",
+      "url": "https://www.bepark.eu/fr/parking/wallonie/liege",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5672209653, 50.6296767982],
+        "type": "Point"
+      },
+      "schedule": "sur abonnement ou r\u00e9servation : 24h/24, 7j/7.",
+      "house_number": "16",
+      "available_spaces": 20,
+      "phone_number": "+32 (0) 2 880 05 50",
+      "available_motorbike_spaces": 0,
+      "mail": "info-be@bepark.eu",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6296767982, 5.5672209653]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5672209653, 50.6296767982]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "0c7da89bd70ebf5b281daa150078527eced733d6",
+    "fields": {
+      "provider": "Bepark",
+      "postal_code": 4000,
+      "street_name": "Rue de Fragn\u00e9e",
+      "available_charging_terminals": 0,
+      "name": "Parking Fragn\u00e9e - Delhaize",
+      "url": "https://www.bepark.eu/fr/parking/wallonie/liege",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5738175048, 50.6253750798],
+        "type": "Point"
+      },
+      "schedule": "sur abonnement ou r\u00e9servation : Du lundi au jeudi de 19h30 \u00e0 8h, le vendredi de 20h30 \u00e0 8h et le dimanche 24h/24",
+      "house_number": "41",
+      "available_spaces": 40,
+      "phone_number": "+32 (0) 2 880 05 50",
+      "available_motorbike_spaces": 0,
+      "mail": "info-be@bepark.eu",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6253750798, 5.5738175048]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5738175048, 50.6253750798]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "38956fde137893ae383a17629c1714aa2c6833ed",
+    "fields": {
+      "provider": "Bepark",
+      "postal_code": 4000,
+      "street_name": "de Rotterdam",
+      "name": "Parking Rotterdam",
+      "url": "https://www.bepark.eu/fr/parking/belgique/liege/rue-de-rotterdam/1030",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5674353803, 50.6311729725],
+        "type": "Point"
+      },
+      "schedule": "sur abonnement ou r\u00e9servation : 24h/24, 7j/7.",
+      "house_number": "4",
+      "available_spaces": 147,
+      "phone_number": "+32 (0) 2 880 05 50",
+      "mail": "info-be@bepark.eu",
+      "available_bike_spaces": 16,
+      "geo_point_2d": [50.6311729725, 5.5674353803]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5674353803, 50.6311729725]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "3d184740b11e8762ab02e778fc01837f8fb1737f",
+    "fields": {
+      "provider": "illico-park",
+      "postal_code": 4020,
+      "street_name": "Rue M\u00e9an",
+      "available_charging_terminals": 0,
+      "name": "Parking Aquarium",
+      "url": "http://www.illico-park.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5800306678, 50.6376851177],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "24",
+      "available_spaces": 70,
+      "phone_number": "+32 (0) 4 340 49 22",
+      "available_motorbike_spaces": 0,
+      "mail": "info@illico-park.be",
+      "available_handicapped_spaces": 2,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6376851177, 5.5800306678]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5800306678, 50.6376851177]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "e91b4218bd5b0f421798d90eeb5ab96ad37b5bde",
+    "fields": {
+      "provider": "Be-Park",
+      "postal_code": 4000,
+      "street_name": "boulevard de la Sauveni\u00e8re",
+      "available_charging_terminals": 0,
+      "name": "Parking Sauveni\u00e8re",
+      "url": "https://www.bepark.eu/fr/parking/wallonie/liege",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5654035149, 50.6429408518],
+        "type": "Point"
+      },
+      "schedule": "24h / 7j",
+      "house_number": "100",
+      "available_spaces": 16,
+      "phone_number": "+32(0)28800550",
+      "available_motorbike_spaces": 0,
+      "mail": "info-be@bepark.eu",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6429408518, 5.5654035149]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5654035149, 50.6429408518]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "de259c92e3b73b696bd25ba1a860248469096cb0",
+    "fields": {
+      "provider": "Sauveni\u00e8re",
+      "postal_code": 4000,
+      "street_name": "Boulevard de la Sauveni\u00e8re",
+      "available_charging_terminals": 0,
+      "name": "Parking Sauveni\u00e8re",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5653716221, 50.6428485702],
+        "type": "Point"
+      },
+      "house_number": "100",
+      "available_spaces": 364,
+      "phone_number": "+32 (0) 4 221 17 38",
+      "available_motorbike_spaces": 0,
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6428485702, 5.5653716221]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5653716221, 50.6428485702]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "9f85583970c0ec8e3ef721d3b01b4e1c69db1266",
+    "fields": {
+      "provider": "anneaudor",
+      "postal_code": 4000,
+      "street_name": "Rue Sur la Fontaine",
+      "available_charging_terminals": 0,
+      "name": "Parking de l'Anneau d'Or",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5675062773, 50.6403863337],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "96",
+      "available_spaces": 188,
+      "phone_number": "+32 (0) 4 223 60 75",
+      "available_motorbike_spaces": 0,
+      "mail": "anneaudor@live.be",
+      "available_handicapped_spaces": 1,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6403863337, 5.5675062773]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5675062773, 50.6403863337]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "581f2455f98c329b54525bf9ed7a44bf4cf4aeb0",
+    "fields": {
+      "provider": "interparking",
+      "postal_code": 4000,
+      "street_name": "La Batte",
+      "available_charging_terminals": 8,
+      "name": "Parking Saint-Georges",
+      "url": "http://www.interparking.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5808367522, 50.6461477434],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "available_spaces": 205,
+      "phone_number": "+32 (0) 4 223 45 64",
+      "available_motorbike_spaces": 20,
+      "mail": "info@interparking.com",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6461477434, 5.5808367522]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5808367522, 50.6461477434]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "087129a644b5081bc9c28e38bd7cb91e99f3d1a0",
+    "fields": {
+      "provider": "SNCB",
+      "postal_code": 4000,
+      "street_name": "Rue du Plan inclin\u00e9",
+      "available_charging_terminals": 0,
+      "name": "Parking Guillemins P3",
+      "url": "https://www.belgiantrain.be/fr/station-information/car-or-bike-at-station/b-parking/my-b-parking/liege-guillemins",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5643427667, 50.6276071641],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "4",
+      "available_spaces": 700,
+      "available_motorbike_spaces": 0,
+      "available_handicapped_spaces": 14,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6276071641, 5.5643427667]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5643427667, 50.6276071641]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "d0f46c846cf72f8a8ca5b7b893b39c1947e94a9e",
+    "fields": {
+      "provider": "SNCB",
+      "postal_code": 4000,
+      "street_name": "Rue Serrurier Bovy",
+      "available_charging_terminals": 0,
+      "name": "Parking Guillemins P1",
+      "url": "https://www.belgiantrain.be/fr/station-information/car-or-bike-at-station/b-parking/my-b-parking/liege-guillemins",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5658238398, 50.6241061002],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "available_spaces": 496,
+      "available_motorbike_spaces": 20,
+      "available_handicapped_spaces": 12,
+      "available_bike_spaces": 356,
+      "geo_point_2d": [50.6241061002, 5.5658238398]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5658238398, 50.6241061002]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "c734ccb35f8973b9ae7f5884c1366484a3a50e55",
+    "fields": {
+      "provider": "SNCB",
+      "postal_code": 4000,
+      "street_name": "Rue de Sclessin",
+      "available_charging_terminals": 0,
+      "name": "Parking Guillemins P2",
+      "url": "https://www.belgiantrain.be/fr/station-information/car-or-bike-at-station/b-parking/my-b-parking/liege-guillemins",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5694712895, 50.6244991103],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "available_spaces": 154,
+      "available_motorbike_spaces": 10,
+      "available_handicapped_spaces": 4,
+      "available_bike_spaces": 84,
+      "geo_point_2d": [50.6244991103, 5.5694712895]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5694712895, 50.6244991103]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "615e51a7c538a7e728d8b044848d628d4c515a2d",
+    "fields": {
+      "provider": "Bepark",
+      "postal_code": 4000,
+      "street_name": "Rue de Fragn\u00e9e",
+      "available_charging_terminals": 0,
+      "name": "Parking Fragn\u00e9e - Quai de Rome",
+      "url": "https://www.bepark.eu/fr/parking/wallonie/liege",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.5729140092, 50.6258844992],
+        "type": "Point"
+      },
+      "schedule": "sur abonnement ou r\u00e9servation : 24h/24, 7j/7.",
+      "house_number": "25",
+      "available_spaces": 26,
+      "phone_number": "+32 (0) 2 880 05 50",
+      "available_motorbike_spaces": 0,
+      "mail": "info-be@bepark.eu",
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 0,
+      "geo_point_2d": [50.6258844992, 5.5729140092]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.5729140092, 50.6258844992]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  },
+  {
+    "datasetid": "parkings-voitures-hors-voirie",
+    "recordid": "a6bee52c6af1c3d316e014fcf3161917f1e81b99",
+    "fields": {
+      "provider": "Saint-Denis",
+      "postal_code": 4000,
+      "street_name": "Rue Souverain-Pont",
+      "available_charging_terminals": 0,
+      "name": "Parking Saint-Denis",
+      "url": "http://parkingstdenisliege.be",
+      "city": "Li\u00e8ge",
+      "geo_shape": {
+        "coordinates": [5.574644137, 50.6435348112],
+        "type": "Point"
+      },
+      "schedule": "24h/24, 7j/7.",
+      "house_number": "44",
+      "available_spaces": 748,
+      "phone_number": "+32 (0) 4 223 60 96",
+      "available_motorbike_spaces": 0,
+      "available_handicapped_spaces": 0,
+      "available_bike_spaces": 24,
+      "geo_point_2d": [50.6435348112, 5.574644137]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.574644137, 50.6435348112]
+    },
+    "record_timestamp": "2022-05-28T00:50:00+02:00"
+  }
+]
