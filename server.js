@@ -37,15 +37,11 @@ app.post("/addParking", async (req, res) => {
 
     console.log(nomPlace, adresse, codePostal, ville, coordinates);
     const newParking = await Parking.create({
-      fields: {
-        nomPlace,
-        adresse,
-        codePostal,
-        ville,
-      },
-      geometry: {
-        coordinates,
-      },
+      nomPlace,
+      adresse,
+      codePostal,
+      ville,
+      coordinates,
     });
     res.status(200).json(newParking);
   } catch (err) {
