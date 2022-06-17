@@ -13,7 +13,7 @@ const User = require("./model/user");
 const Parking = require("./model/parkings");
 const auth = require("./middleware/auth");
 
-const parkings = require("./data/parkings.json");
+const parkingsJSON = require("./data/parkings.json");
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
@@ -28,7 +28,13 @@ app.use(
 );
 
 app.get("/parkings", (req, res) => {
-  res.send(parkings);
+  Parking.find({}, (err, parkings) => {
+    if (err) {
+      res.status(500).send(err);
+    } else {
+      res.send(parkings);
+    }
+  });
 });
 
 app.post("/addParking", async (req, res) => {
