@@ -10,6 +10,7 @@ require("dotenv").config();
 require("./config/database").connect();
 
 const User = require("./model/user");
+const Parking = require("./model/parkings");
 const auth = require("./middleware/auth");
 
 const parkings = require("./data/parkings.json");
@@ -28,6 +29,27 @@ app.use(
 
 app.get("/parkings", (req, res) => {
   res.send(parkings);
+});
+
+app.post("/addParking", (req, res) => {
+  try {
+  const { nomPlace, adresse, codePostal, ville, coordinates } = req.body;
+  const newParking = await parkings.create({
+    fields: {
+        nomPlace,
+        adresse,
+        codePostal,
+        ville,
+    },
+    geometry: {
+        coordinates,
+    },
+    
+});
+    res.status(201).json(newParking);
+  } catch (err) {
+    console.log(err);
+  }
 });
 
 app.post("/welcome", auth, (req, res) => {
