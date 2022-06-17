@@ -34,18 +34,20 @@ app.get("/parkings", (req, res) => {
 app.post("/addParking", async (req, res) => {
   try {
     const { nomPlace, adresse, codePostal, ville, coordinates } = req.body;
-    const newParking = await Parking.create({
-      fields: {
-        nomPlace,
-        adresse,
-        codePostal,
-        ville,
-      },
-      geometry: {
-        coordinates,
-      },
-    });
-    res.status(201).json(newParking);
+
+    console.log(nomPlace, adresse, codePostal, ville, coordinates);
+    // const newParking = await Parking.create({
+    //   fields: {
+    //     nomPlace,
+    //     adresse,
+    //     codePostal,
+    //     ville,
+    //   },
+    //   geometry: {
+    //     coordinates,
+    //   },
+    // });
+    // res.status(201).json(newParking);
   } catch (err) {
     console.log(err);
   }
