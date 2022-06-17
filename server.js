@@ -43,6 +43,7 @@ app.post("/addParking", async (req, res) => {
       ville,
       coordinates,
     });
+    console.log(newParking);
     res.status(200).json(newParking);
   } catch (err) {
     console.log(err);
