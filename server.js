@@ -28,14 +28,15 @@ app.use(
 );
 
 app.get("/parkings", (req, res) => {
-  Parking.find({}, (err, parkings) => {
-    if (err) {
-      res.status(500).send(err);
-    } else {
-      console.log(parkings);
-      res.send(parkings);
-    }
-  });
+  // Parking.find({}, (err, parkings) => {
+  //   if (err) {
+  //     res.status(500).send(err);
+  //   } else {
+  //     console.log(parkings);
+  //     res.send(parkings);
+  //   }
+  // });
+  res.send(parkingsJSON);
 });
 
 app.post("/addParking", async (req, res) => {
