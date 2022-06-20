@@ -28,15 +28,18 @@ app.use(
 );
 
 app.get("/parkings", (req, res) => {
-  // Parking.find({}, (err, parkings) => {
-  //   if (err) {
-  //     res.status(500).send(err);
-  //   } else {
-  //     console.log(parkings);
-  //     res.send(parkings);
-  //   }
-  // });
   res.send(parkingsJSON);
+});
+
+app.get("/parkingsDB", (req, res) => {
+  Parking.find({}, (err, parkings) => {
+    if (err) {
+      res.status(500).send(err);
+    } else {
+      console.log(parkings);
+      res.send(parkings);
+    }
+  });
 });
 
 app.post("/addParking", async (req, res) => {
